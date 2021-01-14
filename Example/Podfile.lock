@@ -1,0 +1,16 @@
+PODS:
+  - EilCore (0.1.0)
+
+DEPENDENCIES:
+  - EilCore (from `../`)
+
+EXTERNAL SOURCES:
+  EilCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EilCore: bca2aafc9d21f4a73823f0951a623dd7d6f9d337
+
+PODFILE CHECKSUM: 769a59b2f675125709cbeddaa5df8a8a14296fb1
+
+COCOAPODS: 1.10.0

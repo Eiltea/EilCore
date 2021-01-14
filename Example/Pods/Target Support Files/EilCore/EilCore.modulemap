@@ -1,0 +1,6 @@
+framework module EilCore {
+  umbrella header "EilCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

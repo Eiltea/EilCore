@@ -1,0 +1,22 @@
+{
+  "name": "EilCore",
+  "version": "0.1.0",
+  "summary": "A short description of EilCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eiltea/EilCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eiltea": "291416765@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/eiltea/EilCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EilCore/Classes/**/*"
+}
